@@ -1,6 +1,6 @@
 # Connected-Component
 
-This repository contains the following functions for connected component analysis:
+This repository contains the following functions for connected component analysis of 2D/3D segmentation data:
 
 1) keep_largest_connected_component
 
@@ -21,7 +21,9 @@ This repository contains the following functions for connected component analysi
 	
 ## How to use it 
 
-Function imports OR command line:
+- Function imports.
+
+- Command line:
 	```
 	connected_component --input_dir .\sample_data\0_sample_seg --output_dir .\sample_data\1_output --count_cc --keep_largest_cc
 	```
