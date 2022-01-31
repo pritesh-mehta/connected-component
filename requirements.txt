@@ -1,0 +1,6 @@
+argparse
+nibabel
+numpy
+pathlib
+scipy
+

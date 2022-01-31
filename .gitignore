@@ -1,0 +1,7 @@
+connected_component.egg-info/
+
+*.pyc
+*.pyo
+__pycache__/
+
+.DS_Store
